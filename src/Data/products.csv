@@ -1,0 +1,8 @@
+id,title,price,content,is_selling,seller_email,buyer_email
+1,맥북 15인치,2000000,애플의 야심작 15인치 맥북 에어입니다,True,asd@asd.com,""
+2,맥북 13인치,1500000,애플의 야심작 13인치 맥북 에어입니다,True,asd@asd.com,
+3,맥북 15인치,2000000,애플의 야심작 15인치 맥북 에어입니다,False,asd@asd.com,qwe@qwe.com
+1506,맥북,2000000,애플의 야심작 15인치 맥북 에어입니다,True,asd@asd.com,
+4341,향수,1000000,세언이처럼 인기가 많아져요,True,asd@asd.com,
+4341,향수,1000000,세언이처럼 인기가 많아져요,False,asd@asd.com,qqq@qqq.com
+652,노트북,100,노트북은 짱이야,True,asd@asd.com,
